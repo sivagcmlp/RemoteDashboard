@@ -39,7 +39,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="ColumnMap.cs" />
     <Compile Include="ColumnMapAttributes.cs" />
     <Compile Include="ColumnMapCollection.cs" />
