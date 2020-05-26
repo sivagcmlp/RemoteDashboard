@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDashboard.Zoom.APIClient", "RemoteDashboard.Zoom.APIClient\RemoteDashboard.Zoom.APIClient.csproj", "{D40C1D06-8A31-4B30-8BF0-A8E5695DCDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDashboard.DataFactory", "RemoteDashboard.DataFactory\RemoteDashboard.DataFactory.csproj", "{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40C1D06-8A31-4B30-8BF0-A8E5695DCDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40C1D06-8A31-4B30-8BF0-A8E5695DCDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40C1D06-8A31-4B30-8BF0-A8E5695DCDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40C1D06-8A31-4B30-8BF0-A8E5695DCDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D695339-8DF4-4786-8C75-F6B5B13669B4}
+	EndGlobalSection
+EndGlobal

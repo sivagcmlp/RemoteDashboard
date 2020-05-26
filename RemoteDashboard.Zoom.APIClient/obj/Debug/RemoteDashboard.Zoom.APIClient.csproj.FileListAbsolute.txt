@@ -1,0 +1,12 @@
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.csprojAssemblyReference.cache
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.csproj.CoreCompileInputs.cache
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.Zoom.APIClient.exe.config
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.Zoom.APIClient.exe
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.Zoom.APIClient.pdb
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.DataFactory.dll
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\bin\Debug\RestSharp.dll
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.DataFactory.pdb
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\bin\Debug\RestSharp.xml
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.csproj.CopyComplete
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.exe
+D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.pdb
