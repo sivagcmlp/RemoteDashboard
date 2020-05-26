@@ -4,3 +4,9 @@
 
 /.vs/RemoteDashboard/v15/Server/sqlite3
 /.vs/RemoteDashboard/v15
+/.vs
+/packages
+/RemoteDashboard.DataAccess/bin/Debug
+/RemoteDashboard.DataAccess/obj
+/RemoteDashboard.Models/bin/Debug
+/RemoteDashboard.Models/obj

@@ -10,3 +10,17 @@ D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\b
 D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.csproj.CopyComplete
 D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.exe
 D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.pdb
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.Zoom.APIClient.exe.config
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.Zoom.APIClient.exe
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.Zoom.APIClient.pdb
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\bin\Debug\Newtonsoft.Json.dll
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.DataFactory.dll
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\bin\Debug\RestSharp.dll
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\bin\Debug\RemoteDashboard.DataFactory.pdb
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\bin\Debug\Newtonsoft.Json.xml
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\bin\Debug\RestSharp.xml
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.csprojAssemblyReference.cache
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.csproj.CoreCompileInputs.cache
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.csproj.CopyComplete
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.exe
+D:\Users\svenkappa\Source\Repos\RemoteDashboard2\RemoteDashboard.Zoom.APIClient\obj\Debug\RemoteDashboard.Zoom.APIClient.pdb
