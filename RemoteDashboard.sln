@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDashboard.Zoom.APIClient", "RemoteDashboard.Zoom.APIClient\RemoteDashboard.Zoom.APIClient.csproj", "{D40C1D06-8A31-4B30-8BF0-A8E5695DCDAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDashboard.DataFactory", "RemoteDashboard.DataFactory\RemoteDashboard.DataFactory.csproj", "{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDashboard.Models", "RemoteDashboard.Models\RemoteDashboard.Models.csproj", "{FB349C7D-6D24-452A-9261-5C0D32AEB66A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteDashboard.DataAccess", "RemoteDashboard.DataAccess\RemoteDashboard.DataAccess.csproj", "{DDA15AA1-64F7-42EF-B640-EC5236F92C72}"
@@ -21,10 +19,6 @@ Global
 		{D40C1D06-8A31-4B30-8BF0-A8E5695DCDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D40C1D06-8A31-4B30-8BF0-A8E5695DCDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D40C1D06-8A31-4B30-8BF0-A8E5695DCDAA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23A3BC2D-541A-43F4-BBA5-2F0FE8420E2E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FB349C7D-6D24-452A-9261-5C0D32AEB66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB349C7D-6D24-452A-9261-5C0D32AEB66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB349C7D-6D24-452A-9261-5C0D32AEB66A}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -23,7 +23,7 @@ namespace RemoteDashboard.Zoom.APIClient
         public int page_number { get; set; }
         public int page_size { get; set; }
         public int total_records { get; set; }
-        public List<User> users { get; set; }
+        public List<ZoomUser> users { get; set; }
     }
 
     public class Status //This is the jSON status
@@ -55,7 +55,7 @@ namespace RemoteDashboard.Zoom.APIClient
         public string last_name { get; set; }
         public string email { get; set; }
         public int type { get; set; }
-        public int pmi { get; set; }
+        public string pmi { get; set; }
         public string timezone { get; set; }
         public int verified { get; set; }
         public string dept { get; set; }

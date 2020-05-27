@@ -13,7 +13,7 @@ namespace RemoteDashboard.Models.Models
         public string LastName { get; set; }
         public string Email { get; set; }
         public int Type { get; set; }
-        public int PMI { get; set; }
+        public string PMI { get; set; }
         public string TimeZone { get; set; }
         public int Verified { get; set; }
         public string Department { get; set; }

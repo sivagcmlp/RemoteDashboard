@@ -1,6 +1,0 @@
-D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.DataFactory\obj\Debug\RemoteDashboard.DataFactory.csprojAssemblyReference.cache
-D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.DataFactory\obj\Debug\RemoteDashboard.DataFactory.csproj.CoreCompileInputs.cache
-D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.DataFactory\bin\Debug\RemoteDashboard.DataFactory.dll
-D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.DataFactory\bin\Debug\RemoteDashboard.DataFactory.pdb
-D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.DataFactory\obj\Debug\RemoteDashboard.DataFactory.dll
-D:\Users\ssundaram\source\repos\RemoteDashboard\RemoteDashboard.DataFactory\obj\Debug\RemoteDashboard.DataFactory.pdb

@@ -50,23 +50,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helper\Configuration.cs" />
     <Compile Include="Model\ZoomModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Entities\User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\RemoteDashboard.DataFactory\RemoteDashboard.DataFactory.csproj">
-      <Project>{23a3bc2d-541a-43f4-bba5-2f0fe8420e2e}</Project>
-      <Name>RemoteDashboard.DataFactory</Name>
+    <ProjectReference Include="..\RemoteDashboard.DataAccess\RemoteDashboard.DataAccess.csproj">
+      <Project>{dda15aa1-64f7-42ef-b640-ec5236f92c72}</Project>
+      <Name>RemoteDashboard.DataAccess</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Helper\" />
+    <ProjectReference Include="..\RemoteDashboard.Models\RemoteDashboard.Models.csproj">
+      <Project>{fb349c7d-6d24-452a-9261-5c0d32aeb66a}</Project>
+      <Name>RemoteDashboard.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
